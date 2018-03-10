@@ -1,2 +1,1 @@
-# original_protected
-ethereum入门尝试
+# 项目脚手架

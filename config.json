@@ -1,11 +1,8 @@
 {
 	"eth" : {
 		"defaultAccount" : "YOUR_ACCOUNT",
-		"defaultAccount" : "0x1acdeee63d24e0e80823ec74125f5f365d2aa786",
 		"defaultPassword" : "YOUR_PASSWORD",
-		"defaultPassword" : "lyoko1234/",
-		"contractAddress" : "CONTRACT_DEPLOY_ADDRESS",
-		"contractAddress" : "0x8e1d35bfe9f38eb7e8aa425a4e9a667cd3913f8c"
+		"contractAddress" : "CONTRACT_DEPLOY_ADDRESS"
 	},
 	"rpc" : {
 		"host" : "localhost",

@@ -1,7 +1,6 @@
 var Migrations = artifacts.require("./Migrations.sol");
 const config = require('../config');
 const Web3 = require('web3');
-console.log(config)
 let web3 = new Web3(new Web3.providers.HttpProvider("http://" + config.rpc.host + ":" + config.rpc.port));
 let eth = web3.eth;
 

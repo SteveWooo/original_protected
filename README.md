@@ -45,7 +45,7 @@ miner.start() //开始挖矿
 ##### 2:修改配置文件
 修改config.json
 </br>
-`
+```javascript
 {
 	"eth" : {
 		"defaultAccount" : "YOUR_ACCOUNT",
@@ -60,7 +60,7 @@ miner.start() //开始挖矿
 		"port" : "8090"
 	}
 }
-`
+```
 ##### 3、编译部署合约
 (打开新的控制台窗口)
 </br>

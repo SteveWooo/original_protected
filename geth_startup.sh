@@ -1,0 +1,1 @@
+geth --datadir data --rpc --rpcapi web3,eth,personal,net console --networkid 13 2>>geth.log 
